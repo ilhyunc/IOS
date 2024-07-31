@@ -44,4 +44,4 @@ https://github.com/user-attachments/assets/6ad8c396-7ef5-4c8a-9ad0-569e5eb6d244
 - **UIPickerView**: Displays the list of items available for purchase.
 - **UILabel**: Shows the total value of the current selection.
 - **UIButton**: 'Buy' button to confirm the purchase and manager button for accessing inventory management.
-- **UITableView**: Displays the list of items in the inventory and the purchase history.
+- **UITableView**: Displays the list of items in the inventory and the purchase history
