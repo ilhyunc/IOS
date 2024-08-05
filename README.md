@@ -13,7 +13,6 @@ OrderTrack is an iOS application designed to manage and track purchases, includi
 https://github.com/user-attachments/assets/6ad8c396-7ef5-4c8a-9ad0-569e5eb6d244
 
 
-
 ## Usage
 
 ### Main Features
